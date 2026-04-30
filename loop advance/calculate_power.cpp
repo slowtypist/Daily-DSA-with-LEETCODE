@@ -5,7 +5,7 @@ int main()
     int n;
     int count;
     int power;
-    int result = 1; //because if not done equal to 1 it willl contain garbage value 
+    int result = 1; //because if not done equal to 1 it will contain garbage value 
     cout<<"enter the number: ";
     cin>>n;
     cout<<"enter the power: ";
