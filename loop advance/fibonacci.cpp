@@ -14,7 +14,7 @@ int main()
           cout<<current<<endl;
           last = prev;
           prev = current;
-          current = last + prev;
+          current = last + prev; //it starts from 1 and goes till 13 , fibonacci series goes on printing the sumof the last two digits
      }
    
 }
